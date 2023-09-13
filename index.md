@@ -5,3 +5,4 @@
 ##### I have the power to make things smaller as i have just demonstrated 
 ###### Now. bring me some potatoes. i love potatoes.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+var myVar = "Hello, world!";
